@@ -609,16 +609,6 @@ li {
     font-family: "Roboto", sans-serif;
 }
 
-.option-list {
-    margin-bottom: 3px;
-    border-bottom: 1px solid #37544d;
-    display: block;
-}
-
-.required-service option:hover {
-    background-color: #ffcc00;
-}
-
 .main-box-02 {
     width: 54%;
     height: 70px;
