@@ -18,8 +18,9 @@
 </head>
 
 <body>
+
     <!--- Header  --->
-    <header>
+    <header id="header">
         <div class="header-main">
 
             <!---  Small Nav Bar  --->
@@ -57,8 +58,8 @@
             <!--- Logo & Mega Nav Bar  --->
             <div class="mega-container">
                 <div class="container-fluid">
-                    <a href="index.html" class="col-md-5 logo col"></a>
-                    <div class="col-md-7 col second-navbar">
+                    <a href="index.html" class="col-lg-4 logo col"></a>
+                    <div class="col-lg-8 col second-navbar">
                         <nav class="col">
                             <ul id="menu-02" class="mega-nav">
                                 <li>
@@ -149,14 +150,19 @@
                                     <a href="https://facebook.com" target="_blank"><i class="fa fa-facebook"></i></a>
                                     <a href="https://whatsapp.com" target="_blank"><i class="fa fa-whatsapp"></i></a>
                                 </li>
-                                <a href="order-service.html"><button class="btn btn-warning">Emergency
-                                        Services</button></a>
                             </ul>
                         </nav>
                     </div>
                 </div>
             </div>
-
+            <!--- Alert Bar  --->
+            <a href="order-service.html" class="d-block site-wide-alert alert">
+                <strong>Need an Emergency Service!? <span class="alert-span-1">>>> BOOK NOW</span><span
+                        class="alert-span-2"> >>> We are available 24/7</span></strong>
+            </a>
+            <div class="up">
+                <a href="#header"><i class="fa-solid fa-circle-up"></i></a>
+            </div>
             <!--- collaps menu & Search item  --->
             <div class="nav-collaps-menu">
                 <label for="collaps-menu">
@@ -172,19 +178,16 @@
                             <a href="services.html">Our Services</a>
                             <ul class="collaps-services-item">
                                 <li>
-                                    <a href="services.html#plumbing"><i
-                                            class="fa fa-wrench service-icon"></i>Plumbing</a>
+                                    <a href="plumbing.html"><i class="fa fa-wrench service-icon"></i>Plumbing</a>
                                 </li>
                                 <li>
-                                    <a href="services.html#carpentry"><i
-                                            class="fa fa-hammer service-icon"></i>Carpentry</a>
+                                    <a href="carpentry.html"><i class="fa fa-hammer service-icon"></i>Carpentry</a>
                                 </li>
                                 <li>
-                                    <a href="services.html#electrics"><i
-                                            class="fa fa-plug service-icon"></i>Electrics</a>
+                                    <a href="electrics.html"><i class="fa fa-plug service-icon"></i>Electrics</a>
                                 </li>
                                 <li>
-                                    <a href="services.html#construction"><i
+                                    <a href="construction.html"><i
                                             class="fa fa-trowel-bricks service-icon"></i>Consruction</a>
                                 </li>
                             </ul>
@@ -226,7 +229,6 @@
         </div>
     </header>
 
-
     <!--- Main - Contact --->
     <section id="contact-main">
         <div class="box">
@@ -235,14 +237,17 @@
                 <p>Let us know how we can help you with your existing or future service requirement, and one of our
                     representatives will contact you shortly.</p>
             </div>
-            <video src="../assets/videos/video-03.mp4" autoplay muted loop></video>
+            <video autoplay muted loop>
+                <source src="assets/videos/video-03.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
 
         </div>
         <div class="container">
             <div class="row">
                 <article class="col-md-8 contact-form-container">
-                    <h4 style="text-align: center;">Contact us</h4>
-                    <p style="text-align: center;">Connect with Benni Builder by completing the form below.</p>
+                    <h4 class="text-center">Contact us</h4>
+                    <p class="text-center">Connect with Benni Builder by completing the form below.</p>
                     <form action="https://formdump.codeinstitute.net/" method="post" class="contact-form container">
 
                         <label for="fname" class="contact-form-title">First Name<span class="star"> *</span></label>
@@ -254,7 +259,7 @@
                         <label for="email" class="contact-form-title">Email Address<span class="star"> *</span></label>
                         <input type="email" id="email" name="email_address" placeholder="Email Address"
                             class="contact-form-input" required>
-                            <label for="pnumber" class="contact-form-title">Phone Number<span class="star"> *</span></label>
+                        <label for="pnumber" class="contact-form-title">Phone Number<span class="star"> *</span></label>
                         <input type="tel" id="pnumber" name="phone_number" placeholder="Your UK Phone Number"
                             class="contact-form-input" required>
                         <label for="pcode" class="contact-form-title">Post Code<span class="star"> *</span></label>
@@ -278,8 +283,7 @@
                             maxlength="1000" class="contact-form-textarea" required></textarea>
                         <label for="" class="contact-form-title">How would you prefer us to contact you</label>
                         <label for="byphone" class="contact-form-subtitle">Phone</label>
-                        <input type="radio" id="byphone" name="contact_way" value="phone" class="contact-radio"
-                            checked>
+                        <input type="radio" id="byphone" name="contact_way" value="phone" class="contact-radio" checked>
                         <label for="bysms" class="contact-form-subtitle">SMS</label>
                         <input type="radio" id="bysms" name="contact_way" value="sms" class="contact-radio">
                         <label for="byemail" class="contact-form-subtitle">Email</label>
@@ -326,7 +330,7 @@
                         <div class="contact-email">
                             <h6><i class="fa fa-envelope mr-3"></i>info@bennibuilder.co.uk</h6>
                         </div>
-                        
+
                     </div>
 
                 </aside>
@@ -336,53 +340,51 @@
 
     </section>
 
-
     <!--- Footer  --->
     <footer>
         <div class="container">
             <div id="footer-row-01" class="row">
-                <div class="col-md-3 footer-logo">
+                <div class="col-lg-3 footer-logo">
                     <a href="index.html">
-                        <img src="../assets/images/logo.png" alt="logo" width="90%" height="70%">
+                        <h4>Benni Builder</h4>
+                        <h5>Provider of Building Services</h5>
                     </a>
                 </div>
-                <div class="col-md-3 footer-item">
+                <div class="col-lg-3 footer-item">
                     <a href="services.html">
                         <h5>Our Services</h5>
                     </a>
                     <hr class="fotter-item-hr">
                     <ul>
                         <li>
-                            <a href="services.html/#plumbing"><i class="fa fa-wrench service-icon"></i>Plumbing</a>
+                            <a href="plumbing.html"><i class="fa fa-wrench service-icon"></i>Plumbing</a>
                         </li>
                         <li>
-                            <a href="services.html/#carpentry"><i class="fa fa-hammer service-icon"></i>Carpentry</a>
+                            <a href="carpentry.html"><i class="fa fa-hammer service-icon"></i>Carpentry</a>
                         </li>
                         <li>
-                            <a href="services.html/#electrics"><i class="fa fa-plug service-icon"></i>Electrics</a>
+                            <a href="electrics.html"><i class="fa fa-plug service-icon"></i>Electrics</a>
                         </li>
                         <li>
-                            <a href="services.html/#construction"><i
-                                    class="fa fa-trowel-bricks service-icon"></i>Consruction</a>
+                            <a href="construction.html"><i class="fa fa-trowel-bricks service-icon"></i>Consruction</a>
                         </li>
                     </ul>
                 </div>
-                <div class="col-md-3 footer-item">
+                <div class="col-lg-3 footer-item">
                     <a href="about.html">
                         <h5>About Us</h5>
                     </a>
                     <hr class="fotter-item-hr">
                     <ul>
                         <li>
-                            <a href="about.html/#company"><i class="fa fa-building service-icon"></i>About Company</a>
+                            <a href="about.html#company"><i class="fa fa-building service-icon"></i>About Company</a>
                         </li>
                         <li>
-                            <a href="about.html/#holding"><i class="fa fa-gopuram service-icon"></i>About our
-                                Holding</a>
+                            <a href="about.html#features"><i class="fa fa-star service-icon"></i>About Features</a>
                         </li>
                     </ul>
                 </div>
-                <div class="col-md-3 footer-item footer-row-01-03">
+                <div class="col-lg-3 footer-item footer-row-01-03">
                     <a href="contact.html">
                         <h5>Contact Us</h5>
                     </a>
@@ -404,7 +406,7 @@
             </div>
             <hr class="footer-between">
             <div id="footer-row-02" class="">
-                <p>Copyright © Project-01 <cite>Behnam Pordavam</cite></p>
+                <p>Copyright © Project-01 <cite>behnampordavam@gmail.com</cite></p>
             </div>
         </div>
 
