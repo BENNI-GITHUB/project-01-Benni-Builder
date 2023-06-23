@@ -217,7 +217,7 @@ li {
 
 #menu-02 button:hover {
     border: 2px solid #fff;
-    box-sizing: 0;
+    box-sizing: border-box;
 }
 
 #menu-02 .services-menu,
@@ -519,13 +519,11 @@ li {
 @keyframes benni-builder {
     from {
         opacity: .8;
-        transform: (.95);
         color: #ffcc00;
     }
 
     to {
         opacity: 1;
-        transform: scale(1);
         color: #e4e4e4;
     }
 }
@@ -1196,12 +1194,10 @@ background: url('../images/plumbing-head.jpg') no-repeat center center / cover;
     padding-bottom: 40px;
 }
 
-#company .about-photo {
-    width: 95%;
-    height: 500px;
-    background: url('../images/about.jpg') no-repeat center right / cover;
+#company img {
     border-radius: 25px 25px 70% 25px;
 }
+
 #company h2 {
     width: 50%;
     margin-left: 50%;
@@ -1641,11 +1637,7 @@ background: url('../images/plumbing-head.jpg') no-repeat center center / cover;
     text-align: center;
 }
 
-.why-us a {
-    text-decoration: none;
-}
-
-.why-us a button {
+.why-us button {
     margin: 0 auto;
     display: block;
     margin-bottom: 40px;
@@ -1787,7 +1779,7 @@ footer {
         padding-bottom: 20%;
         width: 100%;
         text-align: center;
-        text-shadow: 0 0 23x #000;
+        text-shadow: 0 0 23px #000;
     }
 
     .main-content h1 {
@@ -1936,9 +1928,8 @@ footer {
     }
 
     /* about */
-    #company .about-photo {
+    #company img {
         border-radius: 0 0 70% 0;
-        height: 300px;
     }
 
     #company h2 {
