@@ -1194,8 +1194,11 @@ background: url('../images/plumbing-head.jpg') no-repeat center center / cover;
     padding-bottom: 40px;
 }
 
-#company img {
+#company .about-photo {
     border-radius: 25px 25px 70% 25px;
+    background: url('../images/about.jpg') no-repeat center center / cover;
+    width: 100%;
+    height: 500px;
 }
 
 #company h2 {
@@ -1928,8 +1931,14 @@ footer {
     }
 
     /* about */
-    #company img {
+    #company {
+        margin-top: 10px;
+    }
+    
+    #company .about-photo {
         border-radius: 0 0 70% 0;
+        height: 300px;
+        margin-bottom: 25px;
     }
 
     #company h2 {
