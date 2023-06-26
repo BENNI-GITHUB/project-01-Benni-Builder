@@ -1,5 +1,5 @@
 # Benni Builder website
-![Benni Builder logo](https://github.com/BENNI-GITHUB/project-01-Benni-Builder/blob/main/assets/images/logo.png|width=200)
+![Benni Builder logo](https://github.com/BENNI-GITHUB/project-01-Benni-Builder/blob/main/assets/images/logo.png)
 ##### Benni Builder is a business that specialises in buildings and constructions services, and renovation jobs.This is not a real business at the moment but it can be.
 
 You can find the live site [here](https://benni-github.github.io/project-01-Benni-Builder/).
@@ -32,7 +32,7 @@ All Wireframes were designed for laptop/computer, iPad/tablet and phone display.
   * **Homepage** wireframes [main-page Wireframe](https://github.com/BENNI-GITHUB/project-01-Benni-Builder/blob/main/assets/framework/main_page.jpg)  
   * **Service-Categories pages** wireframes [Service-categories Wireframe](https://github.com/BENNI-GITHUB/project-01-Benni-Builder/blob/main/assets/framework/service_category_page.jpg)  
   * **Contact Us** wireframes [Contact-Us Wireframe](https://github.com/BENNI-GITHUB/project-01-Benni-Builder/blob/main/assets/framework/contact_page.jpg)
-  * **all in pdf file** ![Wireframes](https://github.com/BENNI-GITHUB/project-01-Benni-Builder/blob/main/assets/framework/Framework.pdf)
+  * **all in pdf file** [embed]https://github.com/BENNI-GITHUB/project-01-Benni-Builder/blob/main/assets/framework/Framework.pdf[/embed]
 
 # Features
 ## Current Features
@@ -143,9 +143,9 @@ This way helped me to save my time and gave me opportunity to develop my website
   * I changed the position of the input and collapsed menu in HTML, It led to the input read the next one. 
 
 
-# Deployment
+## Deployment
 
-## Deployment through GitHub Pages
+### Deployment through GitHub Pages
 This site was deployed through GitHub Pages using the following steps:
 1. Log into [GitHub](https://github.com/).
 2. Locate the [repository](https://benni-github.github.io/project-01-Benni-Builder/). 
@@ -156,7 +156,7 @@ This site was deployed through GitHub Pages using the following steps:
 7. The site is now published though it may not be accesible straight away. 
 8. The site URL will be visable on the green bar under the section header. This will remain there permanently and you can refer back to it at any time. 
 
-## Cloning Project
+### Cloning Project
 1. Log into [GitHub](https://github.com/).
 2. Locate the [repository](https://benni-github.github.io/project-01-Benni-Builder/). 
 3. Click the 'Code' dropdown above the file list.
