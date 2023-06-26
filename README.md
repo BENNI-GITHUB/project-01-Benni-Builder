@@ -1,5 +1,5 @@
 # Benni Builder website
-![Benni Builder logo](https://github.com/BENNI-GITHUB/project-01-Benni-Builder/blob/main/assets/images/logo.png)
+![Benni Builder logo](https://github.com/BENNI-GITHUB/project-01-Benni-Builder/blob/main/assets/framework/logo_s.jpg)
 ##### Benni Builder is a business that specialises in buildings and constructions services, and renovation jobs.This is not a real business at the moment but it can be.
 
 You can find the live site [here](https://benni-github.github.io/project-01-Benni-Builder/).
@@ -32,14 +32,13 @@ All Wireframes were designed for laptop/computer, iPad/tablet and phone display.
   * **Homepage** wireframes [main-page Wireframe](https://github.com/BENNI-GITHUB/project-01-Benni-Builder/blob/main/assets/framework/main_page.jpg)  
   * **Service-Categories pages** wireframes [Service-categories Wireframe](https://github.com/BENNI-GITHUB/project-01-Benni-Builder/blob/main/assets/framework/service_category_page.jpg)  
   * **Contact Us** wireframes [Contact-Us Wireframe](https://github.com/BENNI-GITHUB/project-01-Benni-Builder/blob/main/assets/framework/contact_page.jpg)
-  * **all in pdf file** [embed]https://github.com/BENNI-GITHUB/project-01-Benni-Builder/blob/main/assets/framework/Framework.pdf[/embed]
 
 # Features
 ## Current Features
 * All pages designed mobile-first and made to be fully responsive on all devices.
 * Navigation menu collapses on smaller screens for more compact design.
 * Search icon opens a field to search on all screens.
-* A alert system added on all screen sizes to redirect the users to book their service immediately.
+* An alert system added on all screen sizes to redirect the users to book their service immediately.
 * Forms designed to make interaction between users and website.
 ## Future Features
 * Forms submission currently semi-functional, can be made to work more, once JavaScript is learned. 
@@ -89,12 +88,12 @@ At the completion or heavy editing of sections, I used the following websites to
 ### Personal Testing
 Through devices that I have at home/readily available to me, I was able to continuously test on:
 #### Phone:
-  * Samsung Galaxy S9
+  * Samsung Galaxy S23 ultra
     * Google Chrome
     * Samsung Internet
   * Huawei Y7
     * Google Chrome
-  * iPhone 6
+  * iPhone 12 pro
     * Safari
 #### Tablet
   * iPad Mini 7.9"
@@ -104,12 +103,12 @@ Through devices that I have at home/readily available to me, I was able to conti
   * iPad 11" Pro
     * Safari
 #### Computer
-  * Avita Pura 14" Laptop
+  * MicroSoft 15" Surface Laptop 3
     * Google Chrome
     * Microsoft Edge
     * Opera
     * Mozilla Firefox
-  * Lenovo 15" IdeaPad
+  * HP 14" Probook
     * Microsoft Edge
     * Google Chrome
 #### Am I Responsive?
