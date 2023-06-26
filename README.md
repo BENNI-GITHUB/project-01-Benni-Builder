@@ -1,5 +1,5 @@
 # Benni Builder website
-![Benni Builder logo](https://github.com/BENNI-GITHUB/project-01-Benni-Builder/blob/main/assets/images/logo.png)
+![Benni Builder logo](https://github.com/BENNI-GITHUB/project-01-Benni-Builder/blob/main/assets/images/logo.png){width=200 height=100}
 ####Benni Builder is a business that specialises in buildings and constructions services, and renovation jobs.This is not a real business at the moment but it can be.
 
 You can find the live site [here](https://benni-github.github.io/project-01-Benni-Builder/).
@@ -29,7 +29,7 @@ The main objective in creating the site was to have it look elegant and simplist
 ## Wireframes
 All Wireframes were designed for laptop/computer, iPad/tablet and phone display.  
 * Original wireframes:
-  * **Homepage** wireframes ![main-page Wireframe](https://github.com/BENNI-GITHUB/project-01-Benni-Builder/blob/main/assets/framework/main_page.jpg)  
+  * **Homepage** wireframes [main-page Wireframe](https://github.com/BENNI-GITHUB/project-01-Benni-Builder/blob/main/assets/framework/main_page.jpg)  
   * **Service-Categories pages** wireframes [Service-categories Wireframe](https://github.com/BENNI-GITHUB/project-01-Benni-Builder/blob/main/assets/framework/service_category_page.jpg)  
   * **Contact Us** wireframes [Contact-Us Wireframe](https://github.com/BENNI-GITHUB/project-01-Benni-Builder/blob/main/assets/framework/contact_page.jpg)
 # Features
@@ -55,7 +55,6 @@ All Wireframes were designed for laptop/computer, iPad/tablet and phone display.
 * [GitPod](https://www.gitpod.io/) used to develop project and orgainse version control.
 * [GitHub Pages](https://pages.github.com/) used to deploy the site.  
 * [Balsamiq](https://balsamiq.com/) used to create wireframes. 
-* [imgur](https://imgur.com/) used for hosting images that I didn't want hosted in the repository. !!!!!
 * [Responsinator](https://amiresponsive.co.uk/) used to check site was responsive on different screen sizes. 
 
 # Testing
@@ -173,9 +172,9 @@ This site was deployed through GitHub Pages using the following steps:
 
 ## Media
 * Background photo for the main page was taken from [Unsplash](https://unsplash.com/photos/5tYUk7sZzqc).
-* Service photos for the "our services" part of the main page and services pages taken form [pexels] (https://www.pexels.com/)
+* Service photos for the "our services" part of the main page and services pages taken form [pexels](https://www.pexels.com/)
 * The photos used for services breakdown jobs taked from AI Photo creater site [Picsart](https://picsart.com/).
-* The videos used for the pages which containing forms were taken from [pexels] (https://www.pexels.com/)
+* The videos used for the pages which containing forms were taken from [pexels](https://www.pexels.com/)
 
 ## Acknowledgements
 * A massive thank you to my family and friends that tesed throughout, I apologize for all of the harrassment and appreciate all of your efforts. 
