@@ -1,6 +1,6 @@
 # Benni Builder website
-![Benni Builder logo](https://github.com/BENNI-GITHUB/project-01-Benni-Builder/blob/main/assets/images/logo.png){style: width="250px"}
-#### Benni Builder is a business that specialises in buildings and constructions services, and renovation jobs.This is not a real business at the moment but it can be.
+![Benni Builder logo](https://github.com/BENNI-GITHUB/project-01-Benni-Builder/blob/main/assets/images/logo.png|width=200)
+##### Benni Builder is a business that specialises in buildings and constructions services, and renovation jobs.This is not a real business at the moment but it can be.
 
 You can find the live site [here](https://benni-github.github.io/project-01-Benni-Builder/).
 ![Mock up of site on various screens](https://github.com/BENNI-GITHUB/project-01-Benni-Builder/blob/main/assets/framework/responsive.png)
@@ -32,6 +32,8 @@ All Wireframes were designed for laptop/computer, iPad/tablet and phone display.
   * **Homepage** wireframes [main-page Wireframe](https://github.com/BENNI-GITHUB/project-01-Benni-Builder/blob/main/assets/framework/main_page.jpg)  
   * **Service-Categories pages** wireframes [Service-categories Wireframe](https://github.com/BENNI-GITHUB/project-01-Benni-Builder/blob/main/assets/framework/service_category_page.jpg)  
   * **Contact Us** wireframes [Contact-Us Wireframe](https://github.com/BENNI-GITHUB/project-01-Benni-Builder/blob/main/assets/framework/contact_page.jpg)
+  * **all in pdf file** ![Wireframes](https://github.com/BENNI-GITHUB/project-01-Benni-Builder/blob/main/assets/framework/Framework.pdf)
+
 # Features
 ## Current Features
 * All pages designed mobile-first and made to be fully responsive on all devices.
@@ -55,7 +57,7 @@ All Wireframes were designed for laptop/computer, iPad/tablet and phone display.
 * [GitPod](https://www.gitpod.io/) used to develop project and orgainse version control.
 * [GitHub Pages](https://pages.github.com/) used to deploy the site.  
 * [Balsamiq](https://balsamiq.com/) used to create wireframes. 
-* [Responsinator](https://amiresponsive.co.uk/) used to check site was responsive on different screen sizes. 
+* [Check Responsivity](https://amiresponsive.co.uk/) used to check site was responsive on different screen sizes. 
 
 # Testing
 ## Validating
