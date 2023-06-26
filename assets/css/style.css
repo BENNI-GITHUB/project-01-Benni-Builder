@@ -29,13 +29,12 @@ li {
     background-color: #f0f0f0;
 }
 
-.bg-get-service:hover {
-    background-color: #0014dc;
-    transition: 0.5s;
-}
-
 .bg-service-show {
     background-color: #e4e4e4;
+}
+
+.site-wide-alert {
+    background-color: #ffcc00;
 }
 
 .bg-main {
@@ -306,7 +305,6 @@ li {
 
 .site-wide-alert {
     text-decoration: none;
-    background-color: #ffcc00;
     padding: 5px;
     margin-bottom: 0;
     border: 1px solid transparent;
