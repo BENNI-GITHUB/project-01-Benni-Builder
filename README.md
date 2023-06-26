@@ -1,6 +1,6 @@
 # Benni Builder website
-![Benni Builder logo](https://github.com/BENNI-GITHUB/project-01-Benni-Builder/blob/main/assets/images/logo.png =200x)
-####Benni Builder is a business that specialises in buildings and constructions services, and renovation jobs.This is not a real business at the moment but it can be.
+![Benni Builder logo](https://github.com/BENNI-GITHUB/project-01-Benni-Builder/blob/main/assets/images/logo.png){style: width="250px"}
+#### Benni Builder is a business that specialises in buildings and constructions services, and renovation jobs.This is not a real business at the moment but it can be.
 
 You can find the live site [here](https://benni-github.github.io/project-01-Benni-Builder/).
 ![Mock up of site on various screens](https://github.com/BENNI-GITHUB/project-01-Benni-Builder/blob/main/assets/framework/responsive.png)
