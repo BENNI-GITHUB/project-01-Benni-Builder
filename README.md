@@ -1,6 +1,6 @@
 # Benni Builder website
 ![Benni Builder logo](https://github.com/BENNI-GITHUB/project-01-Benni-Builder/blob/main/assets/framework/logo_s.jpg)
-##### Benni Builder is a business that specialises in buildings and constructions services, and renovation jobs.This is not a real business at the moment but it can be.
+##### Benni Builder is a business that specialises in building and construction services, and renovation jobs.This is not a real business at the moment but it can be.
 
 You can find the live site [here](https://benni-github.github.io/project-01-Benni-Builder/).
 ![Mock up of site on various screens](https://github.com/BENNI-GITHUB/project-01-Benni-Builder/blob/main/assets/framework/responsive.png)
@@ -15,7 +15,7 @@ You can find the live site [here](https://benni-github.github.io/project-01-Benn
 ## Design
 ### Colour Scheme
 ![Colours used](https://github.com/BENNI-GITHUB/project-01-Benni-Builder/blob/main/assets/framework/colors.png)
-I wanted to Green and dark yellow palette for this site, utilizing the white/grey background as much as possible. 
+I used Green and dark yellow palette for this site, utilizing the white/grey background as much as possible. 
 ### Typography
 * 'Roboto' is the font used for the Header and Footer of the site with san serif used a fallback. This font is simple and easy to read while adding a modern quality.
 * 'Exo' is the font used for the other content of the site with san serif used a fallback. This font is elegent when used sparingly through the site. 
@@ -41,7 +41,7 @@ All Wireframes were designed for laptop/computer, iPad/tablet and phone display.
 * An alert system added on all screen sizes to redirect the users to book their service immediately.
 * Forms designed to make interaction between users and website.
 ## Future Features
-* Forms submission currently semi-functional, can be made to work more, once JavaScript is learned. 
+* Forms are currently semi-functional, they can be functional more, once JavaScript is learned. 
 * An online booking system could be functional to the business internal calendar.
 # Technologies Used
 ## Languages Used
@@ -98,8 +98,8 @@ Through devices that I have at home/readily available to me, I was able to conti
 #### Tablet
   * iPad Mini 7.9"
     * Safari
-  * iPad 9.7"
-    * Safari
+  * Samsung S8
+    * Google Chrome
   * iPad 11" Pro
     * Safari
 #### Computer
@@ -112,7 +112,7 @@ Through devices that I have at home/readily available to me, I was able to conti
     * Microsoft Edge
     * Google Chrome
 #### Am I Responsive?
-When there were devices/browsers that I didn't have access to, I used "amiresponsive" website to make sure that the site was responsive. 
+When there were devices/browsers that I didn't have access to, I used [amiresponsive website](https://amiresponsive.co.uk/)  to make sure that the site was responsive. 
 
 ### Third-Party Testing
 One of the most helpful ways for me to test throughout his projects was to have a few different people test the site on various devices. I chose a slect group based on their various ages/backgrounds to be able to recieve well-rounded feedback.
@@ -128,12 +128,10 @@ One of the most helpful ways for me to test throughout his projects was to have 
 ## Development
 
 ### Development through VS Code
-At the initial point and because of poor quality of Internet, I used VS Code to write the codes and when the base of the website created I copied the pages and assets to Codenywhere.
+At the initial point and because of poor quality of Internet, I used VS Code to write the codes and when the base of the website created I copied the pages and assets to Codenywhere. This way helped me to save my time and it gave me opportunity to develop my website offline.
 
 ### Development through Codeanywhere
 I used codeanywhere platform to modify my codes.
-This way helped me to save my time and gave me opportunity to develop my website offline.
-
 
 ## Bugs & Fixes
 * Videos were not opened and the first time.
