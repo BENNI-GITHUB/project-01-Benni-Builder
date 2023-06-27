@@ -2102,10 +2102,12 @@ footer {
         border-radius: 0 0 25px 25PX;
         margin-bottom: 15px;
     }
-    
+
+
     .service-item-hr {
         display: none;
     }
+
 
     .other-services-breakdown li {
         margin-left: 15%;
