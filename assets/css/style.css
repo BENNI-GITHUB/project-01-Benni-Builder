@@ -1944,6 +1944,7 @@ footer {
         border-radius: 0 0 70% 0;
         height: 300px;
         margin-bottom: 25px;
+        background-position: center right;
     }
 
     #company h2 {
