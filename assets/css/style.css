@@ -672,26 +672,30 @@ li {
     position: relative;
     background: url('../images/service-main.png') no-repeat center center / cover;
 }
+
 .show-service-plumbing {
-width: 100%;
-height: 200px;
-background: url('../images/plumbing-head.jpg') no-repeat center center / cover;
+    width: 100%;
+    height: 200px;
+    background: url('../images/plumbing-head.jpg') no-repeat center center / cover;
 }
+
 .show-service-carpentry {
     width: 100%;
     height: 200px;
     background: url('../images/carpentry-head.jpg') no-repeat center center / cover;
-    }
-    .show-service-electrics {
-        width: 100%;
-        height: 200px;
-        background: url('../images/electrics-1.jpg') no-repeat center center / cover;
-        }
-        .show-service-construction {
-            width: 100%;
-            height: 200px;
-            background: url('../images/construction-head.jpg') no-repeat center center / cover;
-            }
+}
+
+.show-service-electrics {
+    width: 100%;
+    height: 200px;
+    background: url('../images/electrics-1.jpg') no-repeat center center / cover;
+}
+
+.show-service-construction {
+    width: 100%;
+    height: 200px;
+    background: url('../images/construction-head.jpg') no-repeat center center / cover;
+}
 
 #service-show a {
     text-decoration: none;
@@ -1099,7 +1103,7 @@ background: url('../images/plumbing-head.jpg') no-repeat center center / cover;
 }
 
 #career-main .career-form-container h4,
-#career-main .career-form-container p{
+#career-main .career-form-container p {
     text-align: center;
 }
 
@@ -1372,18 +1376,20 @@ background: url('../images/plumbing-head.jpg') no-repeat center center / cover;
     background-position: center center;
     border-radius: 25px;
 }
+
 .service-page-content hr,
 .why-us hr {
-    width: 80%; 
+    width: 80%;
     border-radius: 50%;
     margin: 0 auto;
     height: 2px;
     background-color: #37544dc6;
 }
+
 .service-page-content h4 {
-    text-align: center; 
-    color: #5c5c5c; 
-    font-family:'Exo', sans-serif;
+    text-align: center;
+    color: #5c5c5c;
+    font-family: 'Exo', sans-serif;
 }
 
 .service-head {
@@ -1446,8 +1452,9 @@ background: url('../images/plumbing-head.jpg') no-repeat center center / cover;
     text-align: justify;
     margin-top: 40px;
 }
+
 .service-head-content-1 {
-    text-shadow: 0 0 1px #d8ad01; 
+    text-shadow: 0 0 1px #d8ad01;
     color: #949494;
 }
 
@@ -1617,7 +1624,7 @@ background: url('../images/plumbing-head.jpg') no-repeat center center / cover;
     float: left;
     padding-top: 30px;
     padding-left: 12.6%;
-    line-height: 40px;
+    line-height: 35px;
     font-size: 17px;
     clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%, 14.2% 50%, 0 0);
     border-radius: 0 25px 25px 0;
@@ -1932,7 +1939,7 @@ footer {
     #company {
         margin-top: 10px;
     }
-    
+
     #company .about-photo {
         border-radius: 0 0 70% 0;
         height: 300px;
@@ -2085,10 +2092,11 @@ footer {
     }
 
     .service-item-content {
-        padding: 20px;
-        padding-top: 20%;
-        line-height: 20px;
-        font-size: 17px;
+        height: auto;
+        padding: 15px;
+        padding-top: 15%;
+        line-height: 25px;
+        font-size: 16px;
         text-align: center;
         clip-path: polygon(0 0, 50% 10%, 100% 0, 100% 100%, 0 100%, 0 0);
         border-radius: 0 0 25px 25PX;
@@ -2110,7 +2118,6 @@ footer {
         padding: 40px 0;
         padding-top: 150px;
         position: relative;
-
     }
 
     .box-left,
@@ -2143,6 +2150,11 @@ footer {
         margin-left: 5%;
     }
 
+    .why-us p,
+    .why-us h6 {
+        text-align: center;
+    }
+
     #why-us-main p {
         font-size: 17px;
     }
@@ -2150,5 +2162,9 @@ footer {
     #why-us-main .why-icon-right,
     #why-us-main .why-icon-left {
         top: -40px;
+    }
+
+    #why-us-main i {
+        padding: 20px;
     }
 }
